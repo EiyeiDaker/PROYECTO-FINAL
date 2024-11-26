@@ -9,7 +9,8 @@ import Vehiculos.Vehiculo;
 
 /**
  *
- * @author Luis
+ * Luis Fernando Castillo 20241222068
+ * Edgar Jesid Velez Castellanos 20241222443
  */
 public interface IGaraje {
   double calcularIngresos();

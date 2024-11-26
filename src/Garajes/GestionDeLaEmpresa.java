@@ -12,7 +12,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author Luis
+ * Luis Fernando Castillo 20241222068
+ * Edgar Jesid Velez Castellanos 20241222443
  */
 public class GestionDeLaEmpresa {
     @SuppressWarnings("empty-statement")

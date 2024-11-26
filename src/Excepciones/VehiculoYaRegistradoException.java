@@ -6,7 +6,8 @@ package Excepciones;
 
 /**
  *
- * @author Luis
+ * Luis Fernando Castillo 20241222068
+ * Edgar Jesid Velez Castellanos 20241222443
  */
 public class VehiculoYaRegistradoException extends Exception {
     public VehiculoYaRegistradoException(){
